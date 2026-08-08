@@ -4,7 +4,9 @@ A private one-page memorial for **Storm** — a beloved companion — shared wit
 
 ## About
 
-This site is hosted with [GitHub Pages](https://pages.github.com/) from the `main` branch. Open `index.html` locally or visit the published Pages URL once deployment completes.
+This site is hosted with [GitHub Pages](https://pages.github.com/) from the `main` branch.
+
+**Live site:** https://dakuy.github.io/storms-sailing/
 
 ## Local preview
 
